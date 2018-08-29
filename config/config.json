@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "Nate",
+    "password": null,
+    "database": "hiking_dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+ },
+   "test": {
+     "username": "dave",
+     "password": null,
+      "database": "hiking_test",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+  }
+}
